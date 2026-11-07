@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Md Zaker Hossen
 
-🎓 CSE student at **University of Chittagong**
+🎓 I am a student at **University of Chittagong** Department of CSE 
 💻 Learning Web Development & Problem Solving
 🌱 Currently learning: C/C++, Python, HTML/CSS/JS
 🤝 Open to collaborate on student projects
